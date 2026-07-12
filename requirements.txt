@@ -1,0 +1,15 @@
+# BEACON ML service (Python 3.13, CPU). Install into D:\hackon-env\venv.
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+numpy
+pandas
+scikit-learn
+joblib
+pillow
+torch            # CPU build: pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch_geometric
+transformers
+safetensors
+tensorflow-cpu   # for the fake-logo CNN (.h5); optional, models degrade gracefully without it

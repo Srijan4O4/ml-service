@@ -1,0 +1,1822 @@
+{
+  "Seller_0000": {
+    "return_ratio": 0.188,
+    "avg_rating": 3.843,
+    "burstiness": 0.0286,
+    "num_reviews": 70,
+    "num_products": 11
+  },
+  "Seller_0001": {
+    "return_ratio": 0.1143,
+    "avg_rating": 4.0,
+    "burstiness": 0.0476,
+    "num_reviews": 21,
+    "num_products": 7
+  },
+  "Seller_0002": {
+    "return_ratio": 0.1954,
+    "avg_rating": 3.863,
+    "burstiness": 0.0411,
+    "num_reviews": 73,
+    "num_products": 14
+  },
+  "Seller_0003": {
+    "return_ratio": 0.1714,
+    "avg_rating": 4.0,
+    "burstiness": 0.0435,
+    "num_reviews": 23,
+    "num_products": 7
+  },
+  "Seller_0004": {
+    "return_ratio": 0.0392,
+    "avg_rating": 3.775,
+    "burstiness": 0.05,
+    "num_reviews": 40,
+    "num_products": 6
+  },
+  "Seller_0005": {
+    "return_ratio": 0.1351,
+    "avg_rating": 3.852,
+    "burstiness": 0.037,
+    "num_reviews": 27,
+    "num_products": 13
+  },
+  "Seller_0006": {
+    "return_ratio": 0.0427,
+    "avg_rating": 4.042,
+    "burstiness": 0.0278,
+    "num_reviews": 72,
+    "num_products": 7
+  },
+  "Seller_0007": {
+    "return_ratio": 0.1167,
+    "avg_rating": 3.676,
+    "burstiness": 0.0588,
+    "num_reviews": 34,
+    "num_products": 3
+  },
+  "Seller_0008": {
+    "return_ratio": 0.2083,
+    "avg_rating": 4.175,
+    "burstiness": 0.0351,
+    "num_reviews": 57,
+    "num_products": 8
+  },
+  "Seller_0009": {
+    "return_ratio": 0.1828,
+    "avg_rating": 4.016,
+    "burstiness": 0.0317,
+    "num_reviews": 63,
+    "num_products": 12
+  },
+  "Seller_0010": {
+    "return_ratio": 0.1304,
+    "avg_rating": 3.73,
+    "burstiness": 0.0225,
+    "num_reviews": 89,
+    "num_products": 5
+  },
+  "Seller_0011": {
+    "return_ratio": 0.1136,
+    "avg_rating": 3.667,
+    "burstiness": 0.0513,
+    "num_reviews": 39,
+    "num_products": 8
+  },
+  "Seller_0012": {
+    "return_ratio": 0.1915,
+    "avg_rating": 3.776,
+    "burstiness": 0.0395,
+    "num_reviews": 76,
+    "num_products": 4
+  },
+  "Seller_0013": {
+    "return_ratio": 0.0854,
+    "avg_rating": 3.833,
+    "burstiness": 0.05,
+    "num_reviews": 60,
+    "num_products": 11
+  },
+  "Seller_0014": {
+    "return_ratio": 0.1667,
+    "avg_rating": 4.044,
+    "burstiness": 0.0441,
+    "num_reviews": 68,
+    "num_products": 8
+  },
+  "Seller_0015": {
+    "return_ratio": 0.122,
+    "avg_rating": 3.607,
+    "burstiness": 0.0714,
+    "num_reviews": 28,
+    "num_products": 6
+  },
+  "Seller_0016": {
+    "return_ratio": 0.0533,
+    "avg_rating": 4.031,
+    "burstiness": 0.0312,
+    "num_reviews": 64,
+    "num_products": 5
+  },
+  "Seller_0017": {
+    "return_ratio": 0.1818,
+    "avg_rating": 3.814,
+    "burstiness": 0.0339,
+    "num_reviews": 59,
+    "num_products": 9
+  },
+  "Seller_0018": {
+    "return_ratio": 0.1273,
+    "avg_rating": 4.194,
+    "burstiness": 0.0645,
+    "num_reviews": 31,
+    "num_products": 11
+  },
+  "Seller_0019": {
+    "return_ratio": 0.0444,
+    "avg_rating": 3.9,
+    "burstiness": 0.0667,
+    "num_reviews": 30,
+    "num_products": 14
+  },
+  "Seller_0020": {
+    "return_ratio": 0.4766,
+    "avg_rating": 4.856,
+    "burstiness": 0.2778,
+    "num_reviews": 90,
+    "num_products": 8
+  },
+  "Seller_0021": {
+    "return_ratio": 0.1765,
+    "avg_rating": 3.974,
+    "burstiness": 0.0385,
+    "num_reviews": 78,
+    "num_products": 4
+  },
+  "Seller_0022": {
+    "return_ratio": 0.6682,
+    "avg_rating": 4.874,
+    "burstiness": 0.3193,
+    "num_reviews": 119,
+    "num_products": 12
+  },
+  "Seller_0023": {
+    "return_ratio": 0.1231,
+    "avg_rating": 3.947,
+    "burstiness": 0.04,
+    "num_reviews": 75,
+    "num_products": 10
+  },
+  "Seller_0024": {
+    "return_ratio": 0.2056,
+    "avg_rating": 3.853,
+    "burstiness": 0.0267,
+    "num_reviews": 75,
+    "num_products": 11
+  },
+  "Seller_0025": {
+    "return_ratio": 0.1154,
+    "avg_rating": 3.948,
+    "burstiness": 0.0345,
+    "num_reviews": 58,
+    "num_products": 4
+  },
+  "Seller_0026": {
+    "return_ratio": 0.0417,
+    "avg_rating": 3.986,
+    "burstiness": 0.0417,
+    "num_reviews": 72,
+    "num_products": 6
+  },
+  "Seller_0027": {
+    "return_ratio": 0.1863,
+    "avg_rating": 3.91,
+    "burstiness": 0.0299,
+    "num_reviews": 67,
+    "num_products": 12
+  },
+  "Seller_0028": {
+    "return_ratio": 0.0853,
+    "avg_rating": 3.975,
+    "burstiness": 0.025,
+    "num_reviews": 80,
+    "num_products": 12
+  },
+  "Seller_0029": {
+    "return_ratio": 0.1702,
+    "avg_rating": 3.687,
+    "burstiness": 0.0299,
+    "num_reviews": 67,
+    "num_products": 8
+  },
+  "Seller_0030": {
+    "return_ratio": 0.1212,
+    "avg_rating": 3.957,
+    "burstiness": 0.0435,
+    "num_reviews": 23,
+    "num_products": 12
+  },
+  "Seller_0031": {
+    "return_ratio": 0.5263,
+    "avg_rating": 4.852,
+    "burstiness": 0.2578,
+    "num_reviews": 128,
+    "num_products": 13
+  },
+  "Seller_0032": {
+    "return_ratio": 0.1744,
+    "avg_rating": 4.048,
+    "burstiness": 0.0323,
+    "num_reviews": 62,
+    "num_products": 7
+  },
+  "Seller_0033": {
+    "return_ratio": 0.1754,
+    "avg_rating": 3.846,
+    "burstiness": 0.0513,
+    "num_reviews": 39,
+    "num_products": 13
+  },
+  "Seller_0034": {
+    "return_ratio": 0.1026,
+    "avg_rating": 4.032,
+    "burstiness": 0.0323,
+    "num_reviews": 31,
+    "num_products": 6
+  },
+  "Seller_0035": {
+    "return_ratio": 0.0545,
+    "avg_rating": 3.738,
+    "burstiness": 0.0476,
+    "num_reviews": 42,
+    "num_products": 5
+  },
+  "Seller_0036": {
+    "return_ratio": 0.1754,
+    "avg_rating": 3.744,
+    "burstiness": 0.0769,
+    "num_reviews": 39,
+    "num_products": 11
+  },
+  "Seller_0037": {
+    "return_ratio": 0.0556,
+    "avg_rating": 4.291,
+    "burstiness": 0.0364,
+    "num_reviews": 55,
+    "num_products": 10
+  },
+  "Seller_0038": {
+    "return_ratio": 0.1333,
+    "avg_rating": 4.125,
+    "burstiness": 0.0833,
+    "num_reviews": 24,
+    "num_products": 4
+  },
+  "Seller_0039": {
+    "return_ratio": 0.1889,
+    "avg_rating": 3.905,
+    "burstiness": 0.0405,
+    "num_reviews": 74,
+    "num_products": 12
+  },
+  "Seller_0040": {
+    "return_ratio": 0.1346,
+    "avg_rating": 3.819,
+    "burstiness": 0.0278,
+    "num_reviews": 72,
+    "num_products": 5
+  },
+  "Seller_0041": {
+    "return_ratio": 0.0625,
+    "avg_rating": 3.917,
+    "burstiness": 0.0278,
+    "num_reviews": 72,
+    "num_products": 12
+  },
+  "Seller_0042": {
+    "return_ratio": 0.117,
+    "avg_rating": 3.926,
+    "burstiness": 0.0294,
+    "num_reviews": 68,
+    "num_products": 3
+  },
+  "Seller_0043": {
+    "return_ratio": 0.1765,
+    "avg_rating": 3.845,
+    "burstiness": 0.0345,
+    "num_reviews": 58,
+    "num_products": 12
+  },
+  "Seller_0044": {
+    "return_ratio": 0.0845,
+    "avg_rating": 3.951,
+    "burstiness": 0.0488,
+    "num_reviews": 41,
+    "num_products": 12
+  },
+  "Seller_0045": {
+    "return_ratio": 0.0698,
+    "avg_rating": 4.034,
+    "burstiness": 0.0341,
+    "num_reviews": 88,
+    "num_products": 12
+  },
+  "Seller_0046": {
+    "return_ratio": 0.6258,
+    "avg_rating": 4.841,
+    "burstiness": 0.3068,
+    "num_reviews": 88,
+    "num_products": 10
+  },
+  "Seller_0047": {
+    "return_ratio": 0.7296,
+    "avg_rating": 4.88,
+    "burstiness": 0.28,
+    "num_reviews": 125,
+    "num_products": 8
+  },
+  "Seller_0048": {
+    "return_ratio": 0.0909,
+    "avg_rating": 3.829,
+    "burstiness": 0.0244,
+    "num_reviews": 82,
+    "num_products": 11
+  },
+  "Seller_0049": {
+    "return_ratio": 0.0442,
+    "avg_rating": 4.106,
+    "burstiness": 0.0303,
+    "num_reviews": 66,
+    "num_products": 6
+  },
+  "Seller_0050": {
+    "return_ratio": 0.0,
+    "avg_rating": 3.786,
+    "burstiness": 0.0357,
+    "num_reviews": 28,
+    "num_products": 12
+  },
+  "Seller_0051": {
+    "return_ratio": 0.1875,
+    "avg_rating": 4.0,
+    "burstiness": 0.0392,
+    "num_reviews": 51,
+    "num_products": 9
+  },
+  "Seller_0052": {
+    "return_ratio": 0.1395,
+    "avg_rating": 3.969,
+    "burstiness": 0.0625,
+    "num_reviews": 32,
+    "num_products": 8
+  },
+  "Seller_0053": {
+    "return_ratio": 0.1739,
+    "avg_rating": 3.929,
+    "burstiness": 0.0476,
+    "num_reviews": 42,
+    "num_products": 9
+  },
+  "Seller_0054": {
+    "return_ratio": 0.0962,
+    "avg_rating": 3.762,
+    "burstiness": 0.0714,
+    "num_reviews": 42,
+    "num_products": 9
+  },
+  "Seller_0055": {
+    "return_ratio": 0.1136,
+    "avg_rating": 3.824,
+    "burstiness": 0.0588,
+    "num_reviews": 34,
+    "num_products": 3
+  },
+  "Seller_0056": {
+    "return_ratio": 0.0656,
+    "avg_rating": 4.151,
+    "burstiness": 0.0377,
+    "num_reviews": 53,
+    "num_products": 4
+  },
+  "Seller_0057": {
+    "return_ratio": 0.0588,
+    "avg_rating": 3.672,
+    "burstiness": 0.0328,
+    "num_reviews": 61,
+    "num_products": 5
+  },
+  "Seller_0058": {
+    "return_ratio": 0.0645,
+    "avg_rating": 3.943,
+    "burstiness": 0.0345,
+    "num_reviews": 87,
+    "num_products": 4
+  },
+  "Seller_0059": {
+    "return_ratio": 0.028,
+    "avg_rating": 3.82,
+    "burstiness": 0.0337,
+    "num_reviews": 89,
+    "num_products": 8
+  },
+  "Seller_0060": {
+    "return_ratio": 0.0803,
+    "avg_rating": 4.06,
+    "burstiness": 0.0241,
+    "num_reviews": 83,
+    "num_products": 11
+  },
+  "Seller_0061": {
+    "return_ratio": 0.2039,
+    "avg_rating": 3.769,
+    "burstiness": 0.0256,
+    "num_reviews": 78,
+    "num_products": 10
+  },
+  "Seller_0062": {
+    "return_ratio": 0.0625,
+    "avg_rating": 3.872,
+    "burstiness": 0.0513,
+    "num_reviews": 39,
+    "num_products": 8
+  },
+  "Seller_0063": {
+    "return_ratio": 0.1143,
+    "avg_rating": 3.891,
+    "burstiness": 0.0364,
+    "num_reviews": 55,
+    "num_products": 13
+  },
+  "Seller_0064": {
+    "return_ratio": 0.0948,
+    "avg_rating": 3.883,
+    "burstiness": 0.039,
+    "num_reviews": 77,
+    "num_products": 9
+  },
+  "Seller_0065": {
+    "return_ratio": 0.114,
+    "avg_rating": 3.91,
+    "burstiness": 0.0256,
+    "num_reviews": 78,
+    "num_products": 3
+  },
+  "Seller_0066": {
+    "return_ratio": 0.1296,
+    "avg_rating": 3.833,
+    "burstiness": 0.0476,
+    "num_reviews": 42,
+    "num_products": 12
+  },
+  "Seller_0067": {
+    "return_ratio": 0.0965,
+    "avg_rating": 3.951,
+    "burstiness": 0.0488,
+    "num_reviews": 82,
+    "num_products": 9
+  },
+  "Seller_0068": {
+    "return_ratio": 0.1625,
+    "avg_rating": 3.903,
+    "burstiness": 0.0323,
+    "num_reviews": 62,
+    "num_products": 10
+  },
+  "Seller_0069": {
+    "return_ratio": 0.102,
+    "avg_rating": 4.27,
+    "burstiness": 0.0541,
+    "num_reviews": 37,
+    "num_products": 9
+  },
+  "Seller_0070": {
+    "return_ratio": 0.1216,
+    "avg_rating": 3.932,
+    "burstiness": 0.0455,
+    "num_reviews": 44,
+    "num_products": 9
+  },
+  "Seller_0071": {
+    "return_ratio": 0.037,
+    "avg_rating": 3.682,
+    "burstiness": 0.0455,
+    "num_reviews": 66,
+    "num_products": 4
+  },
+  "Seller_0072": {
+    "return_ratio": 0.1351,
+    "avg_rating": 3.899,
+    "burstiness": 0.0337,
+    "num_reviews": 89,
+    "num_products": 9
+  },
+  "Seller_0073": {
+    "return_ratio": 0.1364,
+    "avg_rating": 3.75,
+    "burstiness": 0.0714,
+    "num_reviews": 28,
+    "num_products": 12
+  },
+  "Seller_0074": {
+    "return_ratio": 0.1414,
+    "avg_rating": 3.817,
+    "burstiness": 0.0244,
+    "num_reviews": 82,
+    "num_products": 6
+  },
+  "Seller_0075": {
+    "return_ratio": 0.1727,
+    "avg_rating": 4.113,
+    "burstiness": 0.0282,
+    "num_reviews": 71,
+    "num_products": 10
+  },
+  "Seller_0076": {
+    "return_ratio": 0.1711,
+    "avg_rating": 3.766,
+    "burstiness": 0.0469,
+    "num_reviews": 64,
+    "num_products": 3
+  },
+  "Seller_0077": {
+    "return_ratio": 0.198,
+    "avg_rating": 3.904,
+    "burstiness": 0.0274,
+    "num_reviews": 73,
+    "num_products": 7
+  },
+  "Seller_0078": {
+    "return_ratio": 0.1566,
+    "avg_rating": 3.953,
+    "burstiness": 0.0469,
+    "num_reviews": 64,
+    "num_products": 8
+  },
+  "Seller_0079": {
+    "return_ratio": 0.0851,
+    "avg_rating": 4.047,
+    "burstiness": 0.0349,
+    "num_reviews": 86,
+    "num_products": 14
+  },
+  "Seller_0080": {
+    "return_ratio": 0.0893,
+    "avg_rating": 3.786,
+    "burstiness": 0.0286,
+    "num_reviews": 70,
+    "num_products": 5
+  },
+  "Seller_0081": {
+    "return_ratio": 0.2072,
+    "avg_rating": 3.892,
+    "burstiness": 0.0361,
+    "num_reviews": 83,
+    "num_products": 6
+  },
+  "Seller_0082": {
+    "return_ratio": 0.2133,
+    "avg_rating": 4.255,
+    "burstiness": 0.0392,
+    "num_reviews": 51,
+    "num_products": 7
+  },
+  "Seller_0083": {
+    "return_ratio": 0.0513,
+    "avg_rating": 3.714,
+    "burstiness": 0.0357,
+    "num_reviews": 28,
+    "num_products": 14
+  },
+  "Seller_0084": {
+    "return_ratio": 0.1538,
+    "avg_rating": 3.703,
+    "burstiness": 0.0541,
+    "num_reviews": 37,
+    "num_products": 13
+  },
+  "Seller_0085": {
+    "return_ratio": 0.0265,
+    "avg_rating": 3.851,
+    "burstiness": 0.027,
+    "num_reviews": 74,
+    "num_products": 3
+  },
+  "Seller_0086": {
+    "return_ratio": 0.1481,
+    "avg_rating": 4.112,
+    "burstiness": 0.0337,
+    "num_reviews": 89,
+    "num_products": 5
+  },
+  "Seller_0087": {
+    "return_ratio": 0.1264,
+    "avg_rating": 4.036,
+    "burstiness": 0.0364,
+    "num_reviews": 55,
+    "num_products": 12
+  },
+  "Seller_0088": {
+    "return_ratio": 0.0446,
+    "avg_rating": 3.889,
+    "burstiness": 0.0417,
+    "num_reviews": 72,
+    "num_products": 3
+  },
+  "Seller_0089": {
+    "return_ratio": 0.1781,
+    "avg_rating": 3.877,
+    "burstiness": 0.0308,
+    "num_reviews": 65,
+    "num_products": 13
+  },
+  "Seller_0090": {
+    "return_ratio": 0.2,
+    "avg_rating": 3.985,
+    "burstiness": 0.0294,
+    "num_reviews": 68,
+    "num_products": 6
+  },
+  "Seller_0091": {
+    "return_ratio": 0.2059,
+    "avg_rating": 3.933,
+    "burstiness": 0.0333,
+    "num_reviews": 60,
+    "num_products": 14
+  },
+  "Seller_0092": {
+    "return_ratio": 0.1346,
+    "avg_rating": 3.814,
+    "burstiness": 0.0465,
+    "num_reviews": 43,
+    "num_products": 6
+  },
+  "Seller_0093": {
+    "return_ratio": 0.4549,
+    "avg_rating": 4.871,
+    "burstiness": 0.2878,
+    "num_reviews": 139,
+    "num_products": 8
+  },
+  "Seller_0094": {
+    "return_ratio": 0.1729,
+    "avg_rating": 3.988,
+    "burstiness": 0.0235,
+    "num_reviews": 85,
+    "num_products": 10
+  },
+  "Seller_0095": {
+    "return_ratio": 0.2045,
+    "avg_rating": 3.892,
+    "burstiness": 0.027,
+    "num_reviews": 74,
+    "num_products": 4
+  },
+  "Seller_0096": {
+    "return_ratio": 0.1585,
+    "avg_rating": 3.881,
+    "burstiness": 0.0448,
+    "num_reviews": 67,
+    "num_products": 9
+  },
+  "Seller_0097": {
+    "return_ratio": 0.0714,
+    "avg_rating": 3.976,
+    "burstiness": 0.0488,
+    "num_reviews": 41,
+    "num_products": 9
+  },
+  "Seller_0098": {
+    "return_ratio": 0.1228,
+    "avg_rating": 3.757,
+    "burstiness": 0.0286,
+    "num_reviews": 70,
+    "num_products": 12
+  },
+  "Seller_0099": {
+    "return_ratio": 0.1682,
+    "avg_rating": 3.926,
+    "burstiness": 0.0494,
+    "num_reviews": 81,
+    "num_products": 14
+  },
+  "Seller_0100": {
+    "return_ratio": 0.05,
+    "avg_rating": 3.774,
+    "burstiness": 0.0645,
+    "num_reviews": 31,
+    "num_products": 10
+  },
+  "Seller_0101": {
+    "return_ratio": 0.4177,
+    "avg_rating": 4.863,
+    "burstiness": 0.3053,
+    "num_reviews": 131,
+    "num_products": 7
+  },
+  "Seller_0102": {
+    "return_ratio": 0.6312,
+    "avg_rating": 4.848,
+    "burstiness": 0.3106,
+    "num_reviews": 132,
+    "num_products": 7
+  },
+  "Seller_0103": {
+    "return_ratio": 0.6367,
+    "avg_rating": 4.847,
+    "burstiness": 0.2993,
+    "num_reviews": 137,
+    "num_products": 8
+  },
+  "Seller_0104": {
+    "return_ratio": 0.1228,
+    "avg_rating": 4.086,
+    "burstiness": 0.0571,
+    "num_reviews": 35,
+    "num_products": 12
+  },
+  "Seller_0105": {
+    "return_ratio": 0.1622,
+    "avg_rating": 3.955,
+    "burstiness": 0.0455,
+    "num_reviews": 22,
+    "num_products": 6
+  },
+  "Seller_0106": {
+    "return_ratio": 0.119,
+    "avg_rating": 3.812,
+    "burstiness": 0.0625,
+    "num_reviews": 32,
+    "num_products": 5
+  },
+  "Seller_0107": {
+    "return_ratio": 0.2072,
+    "avg_rating": 4.169,
+    "burstiness": 0.026,
+    "num_reviews": 77,
+    "num_products": 7
+  },
+  "Seller_0108": {
+    "return_ratio": 0.163,
+    "avg_rating": 3.781,
+    "burstiness": 0.0469,
+    "num_reviews": 64,
+    "num_products": 3
+  },
+  "Seller_0109": {
+    "return_ratio": 0.0157,
+    "avg_rating": 3.986,
+    "burstiness": 0.0405,
+    "num_reviews": 74,
+    "num_products": 4
+  },
+  "Seller_0110": {
+    "return_ratio": 0.02,
+    "avg_rating": 4.3,
+    "burstiness": 0.05,
+    "num_reviews": 40,
+    "num_products": 4
+  },
+  "Seller_0111": {
+    "return_ratio": 0.14,
+    "avg_rating": 3.605,
+    "burstiness": 0.0789,
+    "num_reviews": 38,
+    "num_products": 12
+  },
+  "Seller_0112": {
+    "return_ratio": 0.3488,
+    "avg_rating": 4.821,
+    "burstiness": 0.3019,
+    "num_reviews": 106,
+    "num_products": 11
+  },
+  "Seller_0113": {
+    "return_ratio": 0.1863,
+    "avg_rating": 3.933,
+    "burstiness": 0.0333,
+    "num_reviews": 60,
+    "num_products": 11
+  },
+  "Seller_0114": {
+    "return_ratio": 0.4677,
+    "avg_rating": 4.826,
+    "burstiness": 0.2907,
+    "num_reviews": 86,
+    "num_products": 8
+  },
+  "Seller_0115": {
+    "return_ratio": 0.0758,
+    "avg_rating": 3.9,
+    "burstiness": 0.05,
+    "num_reviews": 40,
+    "num_products": 11
+  },
+  "Seller_0116": {
+    "return_ratio": 0.1728,
+    "avg_rating": 4.039,
+    "burstiness": 0.0588,
+    "num_reviews": 51,
+    "num_products": 4
+  },
+  "Seller_0117": {
+    "return_ratio": 0.6833,
+    "avg_rating": 4.832,
+    "burstiness": 0.28,
+    "num_reviews": 125,
+    "num_products": 13
+  },
+  "Seller_0118": {
+    "return_ratio": 0.197,
+    "avg_rating": 3.88,
+    "burstiness": 0.04,
+    "num_reviews": 50,
+    "num_products": 9
+  },
+  "Seller_0119": {
+    "return_ratio": 0.1359,
+    "avg_rating": 4.08,
+    "burstiness": 0.0455,
+    "num_reviews": 88,
+    "num_products": 14
+  },
+  "Seller_0120": {
+    "return_ratio": 0.202,
+    "avg_rating": 4.05,
+    "burstiness": 0.0333,
+    "num_reviews": 60,
+    "num_products": 4
+  },
+  "Seller_0121": {
+    "return_ratio": 0.0125,
+    "avg_rating": 4.0,
+    "burstiness": 0.0435,
+    "num_reviews": 46,
+    "num_products": 8
+  },
+  "Seller_0122": {
+    "return_ratio": 0.0481,
+    "avg_rating": 3.809,
+    "burstiness": 0.0225,
+    "num_reviews": 89,
+    "num_products": 11
+  },
+  "Seller_0123": {
+    "return_ratio": 0.1458,
+    "avg_rating": 4.027,
+    "burstiness": 0.027,
+    "num_reviews": 74,
+    "num_products": 8
+  },
+  "Seller_0124": {
+    "return_ratio": 0.0172,
+    "avg_rating": 3.929,
+    "burstiness": 0.0238,
+    "num_reviews": 42,
+    "num_products": 8
+  },
+  "Seller_0125": {
+    "return_ratio": 0.381,
+    "avg_rating": 4.831,
+    "burstiness": 0.3377,
+    "num_reviews": 77,
+    "num_products": 4
+  },
+  "Seller_0126": {
+    "return_ratio": 0.5263,
+    "avg_rating": 4.83,
+    "burstiness": 0.3082,
+    "num_reviews": 159,
+    "num_products": 7
+  },
+  "Seller_0127": {
+    "return_ratio": 0.037,
+    "avg_rating": 4.29,
+    "burstiness": 0.0645,
+    "num_reviews": 31,
+    "num_products": 5
+  },
+  "Seller_0128": {
+    "return_ratio": 0.0476,
+    "avg_rating": 3.708,
+    "burstiness": 0.0833,
+    "num_reviews": 24,
+    "num_products": 6
+  },
+  "Seller_0129": {
+    "return_ratio": 0.0465,
+    "avg_rating": 3.763,
+    "burstiness": 0.0526,
+    "num_reviews": 38,
+    "num_products": 11
+  },
+  "Seller_0130": {
+    "return_ratio": 0.022,
+    "avg_rating": 3.975,
+    "burstiness": 0.037,
+    "num_reviews": 81,
+    "num_products": 10
+  },
+  "Seller_0131": {
+    "return_ratio": 0.0784,
+    "avg_rating": 3.806,
+    "burstiness": 0.0645,
+    "num_reviews": 31,
+    "num_products": 10
+  },
+  "Seller_0132": {
+    "return_ratio": 0.1857,
+    "avg_rating": 3.898,
+    "burstiness": 0.0339,
+    "num_reviews": 59,
+    "num_products": 7
+  },
+  "Seller_0133": {
+    "return_ratio": 0.1667,
+    "avg_rating": 3.955,
+    "burstiness": 0.0909,
+    "num_reviews": 22,
+    "num_products": 14
+  },
+  "Seller_0134": {
+    "return_ratio": 0.1299,
+    "avg_rating": 3.977,
+    "burstiness": 0.0345,
+    "num_reviews": 87,
+    "num_products": 4
+  },
+  "Seller_0135": {
+    "return_ratio": 0.1646,
+    "avg_rating": 3.745,
+    "burstiness": 0.0426,
+    "num_reviews": 47,
+    "num_products": 7
+  },
+  "Seller_0136": {
+    "return_ratio": 0.093,
+    "avg_rating": 4.148,
+    "burstiness": 0.037,
+    "num_reviews": 27,
+    "num_products": 4
+  },
+  "Seller_0137": {
+    "return_ratio": 0.093,
+    "avg_rating": 4.077,
+    "burstiness": 0.0385,
+    "num_reviews": 26,
+    "num_products": 7
+  },
+  "Seller_0138": {
+    "return_ratio": 0.1444,
+    "avg_rating": 3.908,
+    "burstiness": 0.0308,
+    "num_reviews": 65,
+    "num_products": 14
+  },
+  "Seller_0139": {
+    "return_ratio": 0.1351,
+    "avg_rating": 3.941,
+    "burstiness": 0.0588,
+    "num_reviews": 34,
+    "num_products": 7
+  },
+  "Seller_0140": {
+    "return_ratio": 0.4957,
+    "avg_rating": 4.773,
+    "burstiness": 0.303,
+    "num_reviews": 66,
+    "num_products": 13
+  },
+  "Seller_0141": {
+    "return_ratio": 0.0152,
+    "avg_rating": 4.128,
+    "burstiness": 0.0513,
+    "num_reviews": 39,
+    "num_products": 8
+  },
+  "Seller_0142": {
+    "return_ratio": 0.1951,
+    "avg_rating": 3.846,
+    "burstiness": 0.0385,
+    "num_reviews": 26,
+    "num_products": 11
+  },
+  "Seller_0143": {
+    "return_ratio": 0.1351,
+    "avg_rating": 3.985,
+    "burstiness": 0.0299,
+    "num_reviews": 67,
+    "num_products": 8
+  },
+  "Seller_0144": {
+    "return_ratio": 0.0521,
+    "avg_rating": 3.846,
+    "burstiness": 0.0256,
+    "num_reviews": 78,
+    "num_products": 6
+  },
+  "Seller_0145": {
+    "return_ratio": 0.0595,
+    "avg_rating": 3.982,
+    "burstiness": 0.0351,
+    "num_reviews": 57,
+    "num_products": 12
+  },
+  "Seller_0146": {
+    "return_ratio": 0.1148,
+    "avg_rating": 3.857,
+    "burstiness": 0.0476,
+    "num_reviews": 42,
+    "num_products": 14
+  },
+  "Seller_0147": {
+    "return_ratio": 0.1471,
+    "avg_rating": 4.017,
+    "burstiness": 0.05,
+    "num_reviews": 60,
+    "num_products": 6
+  },
+  "Seller_0148": {
+    "return_ratio": 0.101,
+    "avg_rating": 3.833,
+    "burstiness": 0.0256,
+    "num_reviews": 78,
+    "num_products": 12
+  },
+  "Seller_0149": {
+    "return_ratio": 0.1084,
+    "avg_rating": 3.745,
+    "burstiness": 0.0364,
+    "num_reviews": 55,
+    "num_products": 6
+  },
+  "Seller_0150": {
+    "return_ratio": 0.0909,
+    "avg_rating": 3.978,
+    "burstiness": 0.0337,
+    "num_reviews": 89,
+    "num_products": 11
+  },
+  "Seller_0151": {
+    "return_ratio": 0.3771,
+    "avg_rating": 4.864,
+    "burstiness": 0.2721,
+    "num_reviews": 147,
+    "num_products": 12
+  },
+  "Seller_0152": {
+    "return_ratio": 0.1649,
+    "avg_rating": 3.92,
+    "burstiness": 0.0345,
+    "num_reviews": 87,
+    "num_products": 8
+  },
+  "Seller_0153": {
+    "return_ratio": 0.1259,
+    "avg_rating": 3.797,
+    "burstiness": 0.0253,
+    "num_reviews": 79,
+    "num_products": 11
+  },
+  "Seller_0154": {
+    "return_ratio": 0.178,
+    "avg_rating": 3.938,
+    "burstiness": 0.037,
+    "num_reviews": 81,
+    "num_products": 6
+  },
+  "Seller_0155": {
+    "return_ratio": 0.1765,
+    "avg_rating": 4.029,
+    "burstiness": 0.0588,
+    "num_reviews": 34,
+    "num_products": 3
+  },
+  "Seller_0156": {
+    "return_ratio": 0.1692,
+    "avg_rating": 4.085,
+    "burstiness": 0.0426,
+    "num_reviews": 47,
+    "num_products": 4
+  },
+  "Seller_0157": {
+    "return_ratio": 0.0822,
+    "avg_rating": 4.13,
+    "burstiness": 0.037,
+    "num_reviews": 54,
+    "num_products": 8
+  },
+  "Seller_0158": {
+    "return_ratio": 0.1908,
+    "avg_rating": 3.862,
+    "burstiness": 0.025,
+    "num_reviews": 80,
+    "num_products": 13
+  },
+  "Seller_0159": {
+    "return_ratio": 0.1228,
+    "avg_rating": 3.907,
+    "burstiness": 0.0698,
+    "num_reviews": 43,
+    "num_products": 4
+  },
+  "Seller_0160": {
+    "return_ratio": 0.157,
+    "avg_rating": 4.117,
+    "burstiness": 0.026,
+    "num_reviews": 77,
+    "num_products": 8
+  },
+  "Seller_0161": {
+    "return_ratio": 0.1974,
+    "avg_rating": 4.19,
+    "burstiness": 0.0345,
+    "num_reviews": 58,
+    "num_products": 11
+  },
+  "Seller_0162": {
+    "return_ratio": 0.0763,
+    "avg_rating": 3.972,
+    "burstiness": 0.0278,
+    "num_reviews": 72,
+    "num_products": 5
+  },
+  "Seller_0163": {
+    "return_ratio": 0.0444,
+    "avg_rating": 3.75,
+    "burstiness": 0.0357,
+    "num_reviews": 28,
+    "num_products": 11
+  },
+  "Seller_0164": {
+    "return_ratio": 0.4262,
+    "avg_rating": 4.81,
+    "burstiness": 0.2975,
+    "num_reviews": 121,
+    "num_products": 6
+  },
+  "Seller_0165": {
+    "return_ratio": 0.5055,
+    "avg_rating": 4.789,
+    "burstiness": 0.3421,
+    "num_reviews": 76,
+    "num_products": 12
+  },
+  "Seller_0166": {
+    "return_ratio": 0.1852,
+    "avg_rating": 4.095,
+    "burstiness": 0.0476,
+    "num_reviews": 21,
+    "num_products": 9
+  },
+  "Seller_0167": {
+    "return_ratio": 0.0526,
+    "avg_rating": 3.971,
+    "burstiness": 0.0294,
+    "num_reviews": 34,
+    "num_products": 9
+  },
+  "Seller_0168": {
+    "return_ratio": 0.2051,
+    "avg_rating": 4.192,
+    "burstiness": 0.0769,
+    "num_reviews": 26,
+    "num_products": 5
+  },
+  "Seller_0169": {
+    "return_ratio": 0.0615,
+    "avg_rating": 3.886,
+    "burstiness": 0.0455,
+    "num_reviews": 44,
+    "num_products": 8
+  },
+  "Seller_0170": {
+    "return_ratio": 0.0202,
+    "avg_rating": 3.893,
+    "burstiness": 0.0357,
+    "num_reviews": 56,
+    "num_products": 13
+  },
+  "Seller_0171": {
+    "return_ratio": 0.1364,
+    "avg_rating": 4.125,
+    "burstiness": 0.0625,
+    "num_reviews": 32,
+    "num_products": 3
+  },
+  "Seller_0172": {
+    "return_ratio": 0.0795,
+    "avg_rating": 3.764,
+    "burstiness": 0.0278,
+    "num_reviews": 72,
+    "num_products": 12
+  },
+  "Seller_0173": {
+    "return_ratio": 0.0164,
+    "avg_rating": 3.773,
+    "burstiness": 0.0341,
+    "num_reviews": 88,
+    "num_products": 8
+  },
+  "Seller_0174": {
+    "return_ratio": 0.0345,
+    "avg_rating": 3.885,
+    "burstiness": 0.0385,
+    "num_reviews": 52,
+    "num_products": 11
+  },
+  "Seller_0175": {
+    "return_ratio": 0.3735,
+    "avg_rating": 4.797,
+    "burstiness": 0.2891,
+    "num_reviews": 128,
+    "num_products": 10
+  },
+  "Seller_0176": {
+    "return_ratio": 0.0408,
+    "avg_rating": 3.759,
+    "burstiness": 0.038,
+    "num_reviews": 79,
+    "num_products": 8
+  },
+  "Seller_0177": {
+    "return_ratio": 0.1241,
+    "avg_rating": 3.885,
+    "burstiness": 0.0256,
+    "num_reviews": 78,
+    "num_products": 6
+  },
+  "Seller_0178": {
+    "return_ratio": 0.4089,
+    "avg_rating": 4.861,
+    "burstiness": 0.3056,
+    "num_reviews": 144,
+    "num_products": 10
+  },
+  "Seller_0179": {
+    "return_ratio": 0.0323,
+    "avg_rating": 4.047,
+    "burstiness": 0.0465,
+    "num_reviews": 43,
+    "num_products": 4
+  },
+  "Seller_0180": {
+    "return_ratio": 0.0296,
+    "avg_rating": 3.897,
+    "burstiness": 0.0256,
+    "num_reviews": 78,
+    "num_products": 10
+  },
+  "Seller_0181": {
+    "return_ratio": 0.0588,
+    "avg_rating": 4.0,
+    "burstiness": 0.069,
+    "num_reviews": 29,
+    "num_products": 4
+  },
+  "Seller_0182": {
+    "return_ratio": 0.1321,
+    "avg_rating": 3.533,
+    "burstiness": 0.0667,
+    "num_reviews": 30,
+    "num_products": 10
+  },
+  "Seller_0183": {
+    "return_ratio": 0.1356,
+    "avg_rating": 3.852,
+    "burstiness": 0.0341,
+    "num_reviews": 88,
+    "num_products": 10
+  },
+  "Seller_0184": {
+    "return_ratio": 0.7011,
+    "avg_rating": 4.902,
+    "burstiness": 0.3115,
+    "num_reviews": 61,
+    "num_products": 4
+  },
+  "Seller_0185": {
+    "return_ratio": 0.0294,
+    "avg_rating": 4.081,
+    "burstiness": 0.0323,
+    "num_reviews": 62,
+    "num_products": 12
+  },
+  "Seller_0186": {
+    "return_ratio": 0.2055,
+    "avg_rating": 3.942,
+    "burstiness": 0.0385,
+    "num_reviews": 52,
+    "num_products": 7
+  },
+  "Seller_0187": {
+    "return_ratio": 0.0909,
+    "avg_rating": 3.903,
+    "burstiness": 0.0323,
+    "num_reviews": 62,
+    "num_products": 12
+  },
+  "Seller_0188": {
+    "return_ratio": 0.1591,
+    "avg_rating": 3.63,
+    "burstiness": 0.0741,
+    "num_reviews": 27,
+    "num_products": 3
+  },
+  "Seller_0189": {
+    "return_ratio": 0.2069,
+    "avg_rating": 4.039,
+    "burstiness": 0.0588,
+    "num_reviews": 51,
+    "num_products": 5
+  },
+  "Seller_0190": {
+    "return_ratio": 0.0,
+    "avg_rating": 3.826,
+    "burstiness": 0.087,
+    "num_reviews": 23,
+    "num_products": 8
+  },
+  "Seller_0191": {
+    "return_ratio": 0.2016,
+    "avg_rating": 3.835,
+    "burstiness": 0.0253,
+    "num_reviews": 79,
+    "num_products": 5
+  },
+  "Seller_0192": {
+    "return_ratio": 0.3656,
+    "avg_rating": 4.868,
+    "burstiness": 0.2781,
+    "num_reviews": 151,
+    "num_products": 6
+  },
+  "Seller_0193": {
+    "return_ratio": 0.1053,
+    "avg_rating": 3.958,
+    "burstiness": 0.0417,
+    "num_reviews": 24,
+    "num_products": 10
+  },
+  "Seller_0194": {
+    "return_ratio": 0.0714,
+    "avg_rating": 3.803,
+    "burstiness": 0.0282,
+    "num_reviews": 71,
+    "num_products": 4
+  },
+  "Seller_0195": {
+    "return_ratio": 0.1031,
+    "avg_rating": 4.011,
+    "burstiness": 0.023,
+    "num_reviews": 87,
+    "num_products": 11
+  },
+  "Seller_0196": {
+    "return_ratio": 0.1385,
+    "avg_rating": 3.765,
+    "burstiness": 0.0588,
+    "num_reviews": 51,
+    "num_products": 4
+  },
+  "Seller_0197": {
+    "return_ratio": 0.1047,
+    "avg_rating": 3.725,
+    "burstiness": 0.0392,
+    "num_reviews": 51,
+    "num_products": 5
+  },
+  "Seller_0198": {
+    "return_ratio": 0.4195,
+    "avg_rating": 4.842,
+    "burstiness": 0.2595,
+    "num_reviews": 158,
+    "num_products": 10
+  },
+  "Seller_0199": {
+    "return_ratio": 0.1324,
+    "avg_rating": 4.155,
+    "burstiness": 0.0345,
+    "num_reviews": 58,
+    "num_products": 12
+  },
+  "Seller_0200": {
+    "return_ratio": 0.0152,
+    "avg_rating": 3.974,
+    "burstiness": 0.0513,
+    "num_reviews": 39,
+    "num_products": 5
+  },
+  "Seller_0201": {
+    "return_ratio": 0.585,
+    "avg_rating": 4.851,
+    "burstiness": 0.297,
+    "num_reviews": 101,
+    "num_products": 6
+  },
+  "Seller_0202": {
+    "return_ratio": 0.0543,
+    "avg_rating": 3.959,
+    "burstiness": 0.0274,
+    "num_reviews": 73,
+    "num_products": 14
+  },
+  "Seller_0203": {
+    "return_ratio": 0.1545,
+    "avg_rating": 3.692,
+    "burstiness": 0.0385,
+    "num_reviews": 78,
+    "num_products": 14
+  },
+  "Seller_0204": {
+    "return_ratio": 0.197,
+    "avg_rating": 3.977,
+    "burstiness": 0.0465,
+    "num_reviews": 43,
+    "num_products": 9
+  },
+  "Seller_0205": {
+    "return_ratio": 0.0667,
+    "avg_rating": 3.909,
+    "burstiness": 0.0455,
+    "num_reviews": 66,
+    "num_products": 8
+  },
+  "Seller_0206": {
+    "return_ratio": 0.1186,
+    "avg_rating": 3.83,
+    "burstiness": 0.0377,
+    "num_reviews": 53,
+    "num_products": 7
+  },
+  "Seller_0207": {
+    "return_ratio": 0.1111,
+    "avg_rating": 3.844,
+    "burstiness": 0.0312,
+    "num_reviews": 32,
+    "num_products": 10
+  },
+  "Seller_0208": {
+    "return_ratio": 0.3939,
+    "avg_rating": 4.851,
+    "burstiness": 0.2836,
+    "num_reviews": 67,
+    "num_products": 10
+  },
+  "Seller_0209": {
+    "return_ratio": 0.1606,
+    "avg_rating": 4.067,
+    "burstiness": 0.0225,
+    "num_reviews": 89,
+    "num_products": 6
+  },
+  "Seller_0210": {
+    "return_ratio": 0.0897,
+    "avg_rating": 3.782,
+    "burstiness": 0.023,
+    "num_reviews": 87,
+    "num_products": 3
+  },
+  "Seller_0211": {
+    "return_ratio": 0.6407,
+    "avg_rating": 4.823,
+    "burstiness": 0.3333,
+    "num_reviews": 141,
+    "num_products": 4
+  },
+  "Seller_0212": {
+    "return_ratio": 0.1311,
+    "avg_rating": 3.639,
+    "burstiness": 0.0556,
+    "num_reviews": 36,
+    "num_products": 14
+  },
+  "Seller_0213": {
+    "return_ratio": 0.1954,
+    "avg_rating": 3.986,
+    "burstiness": 0.029,
+    "num_reviews": 69,
+    "num_products": 8
+  },
+  "Seller_0214": {
+    "return_ratio": 0.1842,
+    "avg_rating": 3.956,
+    "burstiness": 0.0294,
+    "num_reviews": 68,
+    "num_products": 8
+  },
+  "Seller_0215": {
+    "return_ratio": 0.0588,
+    "avg_rating": 3.918,
+    "burstiness": 0.0408,
+    "num_reviews": 49,
+    "num_products": 8
+  },
+  "Seller_0216": {
+    "return_ratio": 0.1056,
+    "avg_rating": 4.084,
+    "burstiness": 0.0361,
+    "num_reviews": 83,
+    "num_products": 12
+  },
+  "Seller_0217": {
+    "return_ratio": 0.2,
+    "avg_rating": 3.974,
+    "burstiness": 0.0513,
+    "num_reviews": 39,
+    "num_products": 3
+  },
+  "Seller_0218": {
+    "return_ratio": 0.0,
+    "avg_rating": 4.0,
+    "burstiness": 0.0741,
+    "num_reviews": 27,
+    "num_products": 3
+  },
+  "Seller_0219": {
+    "return_ratio": 0.16,
+    "avg_rating": 4.143,
+    "burstiness": 0.0952,
+    "num_reviews": 21,
+    "num_products": 6
+  },
+  "Seller_0220": {
+    "return_ratio": 0.1395,
+    "avg_rating": 4.059,
+    "burstiness": 0.0294,
+    "num_reviews": 68,
+    "num_products": 8
+  },
+  "Seller_0221": {
+    "return_ratio": 0.0417,
+    "avg_rating": 4.062,
+    "burstiness": 0.0308,
+    "num_reviews": 65,
+    "num_products": 11
+  },
+  "Seller_0222": {
+    "return_ratio": 0.1053,
+    "avg_rating": 3.955,
+    "burstiness": 0.0225,
+    "num_reviews": 89,
+    "num_products": 8
+  },
+  "Seller_0223": {
+    "return_ratio": 0.2,
+    "avg_rating": 3.78,
+    "burstiness": 0.0339,
+    "num_reviews": 59,
+    "num_products": 8
+  },
+  "Seller_0224": {
+    "return_ratio": 0.0215,
+    "avg_rating": 3.948,
+    "burstiness": 0.0345,
+    "num_reviews": 58,
+    "num_products": 14
+  },
+  "Seller_0225": {
+    "return_ratio": 0.0753,
+    "avg_rating": 3.947,
+    "burstiness": 0.0263,
+    "num_reviews": 76,
+    "num_products": 4
+  },
+  "Seller_0226": {
+    "return_ratio": 0.0187,
+    "avg_rating": 4.011,
+    "burstiness": 0.0225,
+    "num_reviews": 89,
+    "num_products": 9
+  },
+  "Seller_0227": {
+    "return_ratio": 0.0536,
+    "avg_rating": 4.0,
+    "burstiness": 0.0286,
+    "num_reviews": 35,
+    "num_products": 9
+  },
+  "Seller_0228": {
+    "return_ratio": 0.0755,
+    "avg_rating": 3.78,
+    "burstiness": 0.0488,
+    "num_reviews": 41,
+    "num_products": 8
+  },
+  "Seller_0229": {
+    "return_ratio": 0.1196,
+    "avg_rating": 3.964,
+    "burstiness": 0.0241,
+    "num_reviews": 83,
+    "num_products": 12
+  },
+  "Seller_0230": {
+    "return_ratio": 0.0725,
+    "avg_rating": 3.84,
+    "burstiness": 0.037,
+    "num_reviews": 81,
+    "num_products": 6
+  },
+  "Seller_0231": {
+    "return_ratio": 0.0526,
+    "avg_rating": 3.775,
+    "burstiness": 0.0282,
+    "num_reviews": 71,
+    "num_products": 14
+  },
+  "Seller_0232": {
+    "return_ratio": 0.176,
+    "avg_rating": 3.829,
+    "burstiness": 0.0263,
+    "num_reviews": 76,
+    "num_products": 6
+  },
+  "Seller_0233": {
+    "return_ratio": 0.0164,
+    "avg_rating": 4.077,
+    "burstiness": 0.0513,
+    "num_reviews": 39,
+    "num_products": 9
+  },
+  "Seller_0234": {
+    "return_ratio": 0.486,
+    "avg_rating": 4.894,
+    "burstiness": 0.3333,
+    "num_reviews": 66,
+    "num_products": 9
+  },
+  "Seller_0235": {
+    "return_ratio": 0.7363,
+    "avg_rating": 4.821,
+    "burstiness": 0.2781,
+    "num_reviews": 151,
+    "num_products": 13
+  },
+  "Seller_0236": {
+    "return_ratio": 0.1078,
+    "avg_rating": 3.791,
+    "burstiness": 0.0299,
+    "num_reviews": 67,
+    "num_products": 8
+  },
+  "Seller_0237": {
+    "return_ratio": 0.1,
+    "avg_rating": 3.826,
+    "burstiness": 0.087,
+    "num_reviews": 23,
+    "num_products": 6
+  },
+  "Seller_0238": {
+    "return_ratio": 0.1522,
+    "avg_rating": 3.844,
+    "burstiness": 0.039,
+    "num_reviews": 77,
+    "num_products": 3
+  },
+  "Seller_0239": {
+    "return_ratio": 0.0213,
+    "avg_rating": 4.133,
+    "burstiness": 0.0667,
+    "num_reviews": 30,
+    "num_products": 7
+  },
+  "Seller_0240": {
+    "return_ratio": 0.7177,
+    "avg_rating": 4.874,
+    "burstiness": 0.2989,
+    "num_reviews": 87,
+    "num_products": 12
+  },
+  "Seller_0241": {
+    "return_ratio": 0.506,
+    "avg_rating": 4.826,
+    "burstiness": 0.3488,
+    "num_reviews": 86,
+    "num_products": 3
+  },
+  "Seller_0242": {
+    "return_ratio": 0.1346,
+    "avg_rating": 3.81,
+    "burstiness": 0.0476,
+    "num_reviews": 42,
+    "num_products": 13
+  },
+  "Seller_0243": {
+    "return_ratio": 0.0769,
+    "avg_rating": 4.014,
+    "burstiness": 0.0417,
+    "num_reviews": 72,
+    "num_products": 9
+  },
+  "Seller_0244": {
+    "return_ratio": 0.0903,
+    "avg_rating": 3.977,
+    "burstiness": 0.0227,
+    "num_reviews": 88,
+    "num_products": 4
+  },
+  "Seller_0245": {
+    "return_ratio": 0.6164,
+    "avg_rating": 4.832,
+    "burstiness": 0.3025,
+    "num_reviews": 119,
+    "num_products": 6
+  },
+  "Seller_0246": {
+    "return_ratio": 0.0165,
+    "avg_rating": 3.918,
+    "burstiness": 0.0274,
+    "num_reviews": 73,
+    "num_products": 9
+  },
+  "Seller_0247": {
+    "return_ratio": 0.0885,
+    "avg_rating": 3.907,
+    "burstiness": 0.0267,
+    "num_reviews": 75,
+    "num_products": 6
+  },
+  "Seller_0248": {
+    "return_ratio": 0.0492,
+    "avg_rating": 4.139,
+    "burstiness": 0.0556,
+    "num_reviews": 36,
+    "num_products": 4
+  },
+  "Seller_0249": {
+    "return_ratio": 0.069,
+    "avg_rating": 3.784,
+    "burstiness": 0.0392,
+    "num_reviews": 51,
+    "num_products": 10
+  },
+  "Seller_0250": {
+    "return_ratio": 0.125,
+    "avg_rating": 3.849,
+    "burstiness": 0.0377,
+    "num_reviews": 53,
+    "num_products": 11
+  },
+  "Seller_0251": {
+    "return_ratio": 0.1744,
+    "avg_rating": 3.818,
+    "burstiness": 0.0364,
+    "num_reviews": 55,
+    "num_products": 4
+  },
+  "Seller_0252": {
+    "return_ratio": 0.0204,
+    "avg_rating": 4.097,
+    "burstiness": 0.0645,
+    "num_reviews": 31,
+    "num_products": 6
+  },
+  "Seller_0253": {
+    "return_ratio": 0.0952,
+    "avg_rating": 4.214,
+    "burstiness": 0.0357,
+    "num_reviews": 28,
+    "num_products": 5
+  },
+  "Seller_0254": {
+    "return_ratio": 0.1196,
+    "avg_rating": 3.712,
+    "burstiness": 0.0385,
+    "num_reviews": 52,
+    "num_products": 10
+  },
+  "Seller_0255": {
+    "return_ratio": 0.0926,
+    "avg_rating": 4.021,
+    "burstiness": 0.0213,
+    "num_reviews": 47,
+    "num_products": 11
+  },
+  "Seller_0256": {
+    "return_ratio": 0.0471,
+    "avg_rating": 3.8,
+    "burstiness": 0.0364,
+    "num_reviews": 55,
+    "num_products": 11
+  },
+  "Seller_0257": {
+    "return_ratio": 0.0909,
+    "avg_rating": 3.704,
+    "burstiness": 0.037,
+    "num_reviews": 27,
+    "num_products": 14
+  },
+  "Seller_0258": {
+    "return_ratio": 0.1552,
+    "avg_rating": 3.985,
+    "burstiness": 0.0294,
+    "num_reviews": 68,
+    "num_products": 12
+  },
+  "Seller_0259": {
+    "return_ratio": 0.0526,
+    "avg_rating": 4.281,
+    "burstiness": 0.0312,
+    "num_reviews": 32,
+    "num_products": 6
+  }
+}

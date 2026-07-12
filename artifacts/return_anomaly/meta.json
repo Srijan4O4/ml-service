@@ -1,0 +1,6 @@
+{
+  "window": 8,
+  "threshold": 0.5557462672328014,
+  "anomaly_detect_rate": 1.0,
+  "normal_fpr": 0.05
+}
